@@ -313,9 +313,9 @@
     ulid "^2.3.0"
 
 "@aws-amplify/graphql-transformer-interfaces@^3.9.0":
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/@aws-amplify/graphql-transformer-interfaces/-/graphql-transformer-interfaces-3.10.0.tgz#263dcf3041d91f78539ebc08bfa1c7fb4e224989"
-  integrity sha512-8FOonxB58ytIXWIYNBGifUz4Y+6GW6QMajmdlMMjqlDIwdYbZg+HItPC22K2SewF93CgH1IOFYwNmZYk9L7wiQ==
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/@aws-amplify/graphql-transformer-interfaces/-/graphql-transformer-interfaces-3.10.1.tgz#18283fe97be3abf58f8564f877b7871fc11f4b9b"
+  integrity sha512-daf+cpOSw3lKiS+Tpc5Oo5H+FCkHi/8z+0mAR/greQGPJWzcHv9j2u1Jiy36UvI01ypOhHme58pAs/fKWLWDBQ==
   dependencies:
     graphql "^15.5.0"
 
